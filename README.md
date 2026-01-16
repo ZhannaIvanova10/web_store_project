@@ -18,3 +18,4 @@ web_store_project/
 ├── css/
 ├── js/
 └── images/
+
