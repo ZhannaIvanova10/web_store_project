@@ -19,3 +19,7 @@ web_store_project/
 ├── js/
 └── images/
 
+
+## Изменение для активации Pull Request
+Ветка: hw-1
+Base: develop
